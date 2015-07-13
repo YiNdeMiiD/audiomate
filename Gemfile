@@ -15,3 +15,5 @@ gem 'sdoc', '~> 0.4.0',          group: :doc
 gem 'spring',        group: :development
 gem 'pg'
 gem 'nokogiri'
+gem 'mechanize'
+gem 'dotenv-rails', :groups => [:development, :test]
